@@ -1,15 +1,13 @@
 # AzureNotebooks
 Computational Notebooks as a Service. https://notebooks.azure.com/
 
-##Writing Down Your Ideas
+[Pic goes here]
+
+##Write and Share Your Ideas with Jupyter Notebooks!
  
 We all have ideas. With Azure Notebooks, you can write down your ideas using words and pictures, and you can make them come alive with code that you write in Python or R. Azure Notebooks are powered by the Jupyter Open Source project, which currently has over 3 million users.
- 
-##Sharing Your Ideas
- 
-Ideas on their own aren't all that useful until you can share them with others. Azure Notebooks makes it easy for you to share your ideas with your colleagues or even with anyone who has access to the web. But we go further than that: we make it easy for them to build their own ideas starting from yours! 
- 
-When you create and start writing in your notebook, you define an environment that the code in your notebook runs in. When you share your notebook with someone else, they get a copy of the same environment that you were using without needing to install any software on their computer. All they need to do is click on the link that you shared with them and they can immediately start building on top of your idea. 
+
+Azure Notebooks also makes it easy for you to share your ideas with your colleagues or even with anyone who has access to the web. But we go further than that: we make it easy for them to build their own ideas starting from yours! 
 
 ##About this Repo
 
@@ -28,7 +26,7 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 * Have a cool notebook you want to share?  Upload & tweet with #Azurenotebooks!
 * Are you teacher giving a large class or want to give webinar?  Test drive the site and if possible a heads up on the date & number of users: nbhelp@microsoft.com 
 
-##Filing Issues
+##[Filing Issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
 Knowing the context of your issues will help us solve it faster. Please include as much of the following as you can while creating issues:
 * Whether the issue is related to Jupyter Notebooks or the Libraries feature.
 * The Jupyter Kernel (Pytho2, Pyhton3, or R) in case of problems with a Jupyter Notebook.
@@ -38,3 +36,22 @@ Knowing the context of your issues will help us solve it faster. Please include 
 * LibraryID and Notebook Name
 * Logs (!cat .nb.log Or: New/Terminal, $cat .nb.log)
 * Usage scenario: teaching a class, doing homework, evaluating results for research.
+
+##FAQs
+
+###What is Jupyter? 
+
+Jupyter (formerly IPython), is a multi-lingual REPL on steroids. This is a free service that provides Jupyter notebooks along with supporting libraries as a service. It means you can just login and use, no installation/setup is necessary. Instructors can also use the service by easily sharing a notebook.  Students get their own private copies that can be run.  The service is provided by the Python team @ Microsoft, which is part of the Data Group.  
+
+###What environemnts are supported and how can I install packages?
+
+Python 2.7.11 (Anaconda 4.1.0) and Python 3.5.1 (Anaconda 4.1).
+- You can install packages in Python: '!pip install <pkg name>'
+- You can also install packages using conda: '!conda install --name root <pkg name> -y'
+
+We also support R (3.3.0 running MRO)
+- You can install packages in R: 'install.packages(“pkg name”)'
+
+[Full FAQs](https://notebooks.azure.com/faq)
+
+##Resources
