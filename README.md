@@ -1,10 +1,8 @@
 # AzureNotebooks
 Computational Notebooks as a Service. https://notebooks.azure.com/
 
-[Pic goes here]
-
 ##Write and Share Your Ideas with Jupyter Notebooks!
- 
+
 **Express with Notebooks:** We all have ideas. With Azure Notebooks, you can write down your ideas using words and pictures, and you can make them come alive with code that you write in Python or R. Azure Notebooks are powered by the Jupyter Open Source project, which currently has over 3 million users.
 
 **Share Notebooks:** Azure Notebooks also makes it easy for you to share your ideas with your colleagues or even with anyone who has access to the web. But we go further than that: we make it easy for them to build their own ideas starting from yours! 
@@ -20,12 +18,6 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 **Fall 2016 (Q3-2016)** - Initial preview with basic notebook features and sharing using Libraries.  
 **Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, private libraries, and collaboration in libraries.  
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
-
-##Try Some Sample Notebooks
-
-Note: you don't need an account to view - click the "eyeball". If you want to run/edit a notebook, you'll need Microsft account (outlook, hotmail, xbox, etc. You'll be prompted to create one)
-- Welcome notebook.
-- Links to samples with brief description.
 
 ##Get involved! 
 * [File an issues](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
@@ -54,12 +46,12 @@ Jupyter (formerly IPython), is a multi-lingual REPL on steroids. This is a free 
 
 Python 2.7.11 (Anaconda 4.1.0) and Python 3.5.1 (Anaconda 4.1).
 - You can install packages in Python: `!pip install <pkg name>`
-- You can also install packages using conda: '!conda install --name root <pkg name> -y'
+- You can also install packages using conda: `!conda install --name root <pkg name> -y`
 
 We also support R (3.3.0 running MRO)
-- You can install packages in R: 'install.packages(“pkg
+- You can install packages in R: `install.packages(“pkg name")`
 
 [Full FAQs](https://notebooks.azure.com/faq)
 
 ##Resources
-Few links to DG, Jupyter.org, Welcome notebooks, samples. 
+
