@@ -20,11 +20,11 @@ This github repo is intended for reporting, discussing, and tracking customer is
 The Azure Notebook Service is in public review for the next few quarters. Our focus is key data science scenarios and education. 
 
 **Fall 2016 (Q3-2016)** - Initial preview with basic notebook features and sharing using Libraries.  
-**Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, share private libraries, and add collaborators to libraries.  
+**Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, private libraries, and collaboration in libraries.  
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
 
 ##Get involved! 
-* Please use [issues](https://github.com/Microsoft/AzureNotebooks/issues) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
+* [File an issues](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
 * Have a cool notebook you want to share?  Upload & tweet with #Azurenotebooks!
 * Are you teacher giving a large class or want to give webinar?  Test drive the site and if possible a heads up on the date & number of users: nbhelp@microsoft.com 
 
@@ -32,8 +32,9 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 Knowing the context of your issues will help us solve it faster. Please include as much of the following as you can while creating issues:
 * Whether the issue is related to Jupyter Notebooks or the Libraries feature.
 * The Jupyter Kernel (Pytho2, Pyhton3, or R) in case of problems with a Jupyter Notebook.
-* The time the issue occured at.
-* The web browser the issue occured in.
+* Time of occurance.
+* Web browser the issue occured in.
 * If the issue occured once or can be reproduced (with steps to repro it).
-* Your usage scenario: teaching a class, doing homework, evaluating results for research.
-
+* LibraryID and Notebook Name
+* Logs (!cat .nb.log Or: New/Terminal, $cat .nb.log)
+* Usage scenario: teaching a class, doing homework, evaluating results for research.
