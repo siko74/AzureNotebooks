@@ -11,6 +11,22 @@ Ideas on their own aren't all that useful until you can share them with others. 
  
 When you create and start writing in your notebook, you define an environment that the code in your notebook runs in. When you share your notebook with someone else, they get a copy of the same environment that you were using without needing to install any software on their computer. All they need to do is click on the link that you shared with them and they can immediately start building on top of your idea. 
 
-##Helping us build the service!
+##About this Repo
 
+This github repo is intended for reporting, discussing, and tracking customer issues. We don't have product code on it yet, but we do have a product roadmap below that we'll keep up-to-date. 
+
+##Product Roadmap - subject to change
+
+The Azure Notebook Service is in public review for the next few quarters. Our focus is key data science scenarios and education. 
+
+Fall 2016 (Q3-2016) - Initial preview with basic notebook features and sharing using Libraries.
+Winter 2016 (Q4-2016) - Store data files in libraries, import from Github, share private libraries, and add collaborators to libraries.
+Spring 2017 (Q1-2017) - More collaboration & security features.
+
+##Get involved! 
+Please use issues for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
+Have a cool notebook you want to share?  Upload & tweet with #Azurenotebooks!
+Are you teacher giving a large class or want to give webinar?  Test drive the site and if possible a heads up on the date & number of users: nbhelp@microsoft.com 
+
+##Helping us build the service!
 We need your help to make the service great for data scientists, educators, and students. Having trouble with your Azure Notebooks? File an issue. Don't see feature you'd love to have? File an issue. Need immediate assistance, file an issue and email: nbhelp@microsoft.com
