@@ -3,6 +3,8 @@ Computational Notebooks as a Service. https://notebooks.azure.com/
 
 ##Write and Share Your Ideas with Jupyter Notebooks!
 
+![banner](https://github.com/Microsoft/AzureNotebooks/blob/master/aznb_github.png "banner")
+
 **Express with Notebooks:** We all have ideas. With Azure Notebooks, you can write down your ideas using words and pictures, and you can make them come alive with code that you write in Python or R. Azure Notebooks are powered by the Jupyter Open Source project, which currently has over 3 million users.
 
 **Share Notebooks:** Azure Notebooks also makes it easy for you to share your ideas with your colleagues or even with anyone who has access to the web. But we go further than that: we make it easy for them to build their own ideas starting from yours! 
