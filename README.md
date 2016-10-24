@@ -12,7 +12,7 @@ Computational Notebooks as a Service. https://notebooks.azure.com/
 
 ##About this Repo
 
-This github repo is intended for reporting, discussing, and tracking customer issues. We don't have product code on it yet, but we do have a product roadmap below that we'll keep up-to-date. 
+This GitHub repo is intended for reporting, discussing, and tracking customer issues. We don't have product code on it yet, but we do have a product roadmap below that we'll keep up-to-date. 
 
 ##Product Roadmap - subject to change
 
@@ -31,7 +31,7 @@ We have a suite of sample notebook libraries. These are real life notebooks that
 * [Data Science Fundamentals with Pyhton](https://notebooks.azure.com/library/PythonForDS)
 * [Discover Sentiments in Tweets](https://notebooks.azure.com/library/samples/html/Discover%20Sentiments%20in%20Tweets.ipynb)
 
-Note: You dont need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook, you will need Microsft account (outlook, hotmail, xbox, etc. You'll be prompted to create on).
+Note: You dont need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
 
 ##Get involved! 
 * [File an issues](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
@@ -43,8 +43,8 @@ Knowing the context of your issues will help us solve it faster. Please include 
 * Whether the issue is related to Jupyter Notebooks or the Libraries feature.
 * The Jupyter Kernel (Python2, Pyhton3, or R) in case of problems with a Jupyter Notebook.
 * Time of occurrence.
-* Web browser the issue occured in.
-* If the issue occured once or can be reproduced (with steps to repro it).
+* Web browser the issue occurred in.
+* If the issue occurred once or can be reproduced (with steps to repro it).
 * LibraryID and Notebook Name
 * Logs (!cat .nb.log Or: New/Terminal, $cat .nb.log)
 * Usage scenario: teaching a class, doing homework, evaluating results for research.
