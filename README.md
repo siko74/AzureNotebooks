@@ -1,3 +1,4 @@
+
 # AzureNotebooks
 Computational Notebooks as a Service. https://notebooks.azure.com/
 
@@ -20,6 +21,9 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 **Fall 2016 (Q3-2016)** - Initial preview with basic notebook features and sharing using Libraries.  
 **Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, private libraries, and collaboration in libraries.  
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
+
+##Release Notes
+We ship a new release every two weeks. See our [release notes](https://notebooks.azure.com/releasenotes) for details.
 
 ##Give it a try
 We have a suite of sample notebook libraries. These are real life notebooks that we have used these for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebooks gives you a quick tour of Jupyter. 
