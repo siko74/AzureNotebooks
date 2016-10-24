@@ -21,7 +21,7 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 **Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, private libraries, and collaboration in libraries.  
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
 
-#Give it a try
+##Give it a try
 We have a suite of sample notebook libraries. These are real life notebooks that we have used these for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebooks gives you a quick tour of Jupyter. 
 * [Welcome to Azure Notebooks](https://notebooks.azure.com/library/samples/html/Azure%20Notebooks%20-%20Welcome.ipynb)
 * [Data Science Fundamentals with Pyhton](https://notebooks.azure.com/library/PythonForDS)
@@ -64,7 +64,7 @@ We also support R (3.3.0 running MRO)
 [Full FAQs](https://notebooks.azure.com/faq)
 
 ##Resources
-[Jupyter Project](https://jupyter.org/)
+[Jupyter Project](https://jupyter.org/) 
 [Azure Notebook Help](nbhelp@microsoft.com)
 
 
