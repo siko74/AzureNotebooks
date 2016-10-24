@@ -64,7 +64,7 @@ We also support R (3.3.0 running MRO)
 [Full FAQs](https://notebooks.azure.com/faq)
 
 ##Resources
-[Jupyter Project](https://jupyter.org/) 
-[Azure Notebook Help](nbhelp@microsoft.com)
+* [Jupyter Project](https://jupyter.org/)
+* [Azure Notebook Help](nbhelp@microsoft.com)
 
 
