@@ -34,7 +34,7 @@ We have a suite of sample notebook libraries. These are real life notebooks that
 Note: You dont need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
 
 ##Get involved! 
-* [File an issues](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
+* [File an issue](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
 * Have a cool notebook you want to share?  Upload & tweet with #Azurenotebooks!
 * Are you teacher giving a large class or want to give webinar?  Test drive the site and if possible a heads up on the date & number of users: nbhelp@microsoft.com 
 
