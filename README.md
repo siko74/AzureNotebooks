@@ -22,7 +22,9 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 **Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, private libraries, and collaboration in libraries.  
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
 
-##Release Notes
+##Current Release
+[Thursday, Oct 13, 2016](https://github.com/Microsoft/AzureNotebooks/blob/master/RELEASES/Thursday%2C%20October%2013%2C%202016.md)
+
 We ship a new release every two weeks. See our [release notes](https://notebooks.azure.com/releasenotes) for details.
 
 ##Give it a try
