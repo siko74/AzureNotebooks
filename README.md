@@ -58,7 +58,7 @@ Knowing the context of your issues will help us solve it faster. Please include 
 
 Jupyter (formerly IPython), is a multi-lingual REPL on steroids. This is a free service that provides Jupyter notebooks along with supporting libraries as a service. It means you can just login and use, no installation/setup is necessary. Instructors can also use the service by easily sharing a notebook.  Students get their own private copies that can be run.  The service is provided by the Python team @ Microsoft, which is part of the Data Group.  
 
-###What environemnts are supported and how can I install packages?
+###What environments are supported and how can I install packages?
 
 Python 2.7.11 (Anaconda 4.1.0) and Python 3.5.1 (Anaconda 4.1).
 - You can install packages in Python: `!pip install <pkg name>`
