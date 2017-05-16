@@ -22,12 +22,12 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 **Winter 2016 (Q4-2016)** - Store data files in libraries, import from Github, private libraries, and collaboration in libraries.  
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
 
-##Current Release
+## Current Release
 [Thursday, Oct 13, 2016](https://github.com/Microsoft/AzureNotebooks/blob/master/RELEASES/Thursday%2C%20October%2013%2C%202016.md)
 
 We ship a new release every two weeks. See our [release notes](https://notebooks.azure.com/releasenotes) for details.
 
-##Give it a try
+## Give it a try
 We have a suite of sample notebook libraries. These are real life notebooks that we have used these for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebooks gives you a quick tour of Jupyter. 
 * [Welcome to Azure Notebooks](https://notebooks.azure.com/library/samples/html/Azure%20Notebooks%20-%20Welcome.ipynb)
 * [Data Science Fundamentals with Pyhton](https://notebooks.azure.com/library/PythonForDS)
@@ -35,12 +35,12 @@ We have a suite of sample notebook libraries. These are real life notebooks that
 
 Note: You dont need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
 
-##Get involved! 
+## Get involved! 
 * [File an issue](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
 * Have a cool notebook you want to share?  Upload & tweet with #Azurenotebooks!
 * Are you teacher giving a large class or want to give webinar?  Test drive the site and if possible a heads up on the date & number of users: nbhelp@microsoft.com 
 
-##[Filing Issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
+## [Filing Issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
 Knowing the context of your issues will help us solve it faster. Please include as much of the following as you can while creating issues:
 * Whether the issue is related to Jupyter Notebooks or the Libraries feature.
 * The Jupyter Kernel (Python2, Pyhton3, or R) in case of problems with a Jupyter Notebook.
@@ -52,13 +52,13 @@ Knowing the context of your issues will help us solve it faster. Please include 
 * Usage scenario: teaching a class, doing homework, evaluating results for research.
 * Add template to root. 
 
-##FAQs
+## FAQs
 
-###What is Jupyter? 
+### What is Jupyter? 
 
 Jupyter (formerly IPython), is a multi-lingual REPL on steroids. This is a free service that provides Jupyter notebooks along with supporting libraries as a service. It means you can just login and use, no installation/setup is necessary. Instructors can also use the service by easily sharing a notebook.  Students get their own private copies that can be run.  The service is provided by the Python team @ Microsoft, which is part of the Data Group.  
 
-###What environments are supported and how can I install packages?
+### What environments are supported and how can I install packages?
 
 Python 2.7.11 (Anaconda 4.1.0) and Python 3.5.1 (Anaconda 4.1).
 - You can install packages in Python: `!pip install <pkg name>`
@@ -69,7 +69,7 @@ We also support R (3.3.0 running MRO)
 
 [Full FAQs](https://notebooks.azure.com/faq)
 
-##Resources
+## Resources
 * [Jupyter Project](https://jupyter.org/)
 * [Azure Notebook Help](nbhelp@microsoft.com)
 
