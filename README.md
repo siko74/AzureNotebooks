@@ -6,7 +6,7 @@ Computational Notebooks as a Service. https://notebooks.azure.com/
 
 ![banner](https://github.com/Microsoft/AzureNotebooks/blob/master/.github/aznb_github.png "banner")
 
-**Express with Notebooks:** We all have ideas. With Azure Notebooks, you can write down your ideas using words and pictures, and you can make them come alive with code that you write in Python or R. Azure Notebooks are powered by the Jupyter Open Source project, which currently has over 3 million users.
+**Express with Notebooks:** We all have ideas. With Azure Notebooks, you can write down your ideas using words and pictures, and you can make them come alive with code that you write in Python, R, or F#. Azure Notebooks are powered by the Jupyter Open Source project, which currently has over 3 million users.
 
 **Share Notebooks:** Azure Notebooks also makes it easy for you to share your ideas with your colleagues or even with anyone who has access to the web. But we go further than that: we make it easy for them to build their own ideas starting from yours! 
 
@@ -30,10 +30,10 @@ We ship a new release every two weeks. See our [release notes](https://notebooks
 ## Give it a try
 We have a suite of sample notebook libraries. These are real life notebooks that we have used these for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebooks gives you a quick tour of Jupyter. 
 * [Welcome to Azure Notebooks](https://notebooks.azure.com/library/samples/html/Azure%20Notebooks%20-%20Welcome.ipynb)
-* [Data Science Fundamentals with Pyhton](https://notebooks.azure.com/library/PythonForDS)
+* [Data Science Fundamentals with Python](https://notebooks.azure.com/library/PythonForDS)
 * [Discover Sentiments in Tweets](https://notebooks.azure.com/library/samples/html/Discover%20Sentiments%20in%20Tweets.ipynb)
 
-Note: You dont need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
+Note: You don't need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
 
 ## Get involved! 
 * [File an issue](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
