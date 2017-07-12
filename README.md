@@ -43,7 +43,7 @@ Note: You don't need an account to view notebooks - click the "eyeball"  If you 
 ## [Filing Issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
 Knowing the context of your issues will help us solve it faster. Please include as much of the following as you can while creating issues:
 * Whether the issue is related to Jupyter Notebooks or the Libraries feature.
-* The Jupyter Kernel (Python2, Pyhton3, or R) in case of problems with a Jupyter Notebook.
+* The Jupyter Kernel (Python2, Python3, or R) in case of problems with a Jupyter Notebook.
 * Time of occurrence.
 * Web browser the issue occurred in.
 * If the issue occurred once or can be reproduced (with steps to repro it).
