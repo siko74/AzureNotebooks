@@ -1,5 +1,6 @@
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
-# Azure Notebooks
+# Azure Notebooks 
 Computational Notebooks as a Service. https://notebooks.azure.com/
 
 ## Write and Share Your Ideas with Jupyter Notebooks!
