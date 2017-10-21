@@ -1,11 +1,3 @@
-# October 21, 2017 apx 9:00 Pacific Standard Time
-
-The site is currently experiecing issues with some of the front-end web sites.  We have filed a support request with Azure.  There appears to be an issue where some of the front end instances are not being configured correctly.  We have increased the number of front end instances to reduce the chance of hitting an impacted instance.
-
-If you can get load balanced to a different front end you should be able to access the site.  The easiest way to do this is to open your browser in private browsing, visit the site, and if it loads then you’re good.  If not close in private browsing and repeat.  You should eventually land on a healthy instance.  
-
-Sorry for the issues!
-
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
 # Azure Notebooks 
