@@ -7,7 +7,7 @@ Please describe your issue as completely as possible.
 
 #### Describe the issue you are encountering
 
-#### Repro Steps. How can we reproduce this issue?
+#### What steps can we take to reproduce this issue? If you have this in a notebook already, you can just share a link here.
 
 
 ### Optional, but often helpful:
@@ -33,9 +33,7 @@ Please describe your issue as completely as possible.
     [] Ubuntu
     [] Other (Please Specify)
 
-#### What is the URL to a notebook that reproduces the issue? (https://notebooks.azure.com/<USERNAME>/libraries/<LIBRARYNAME>/html/<FILEPATH>)
-    User Name:
-    Library Name:
-    File Path:
+#### What is the path to the notebook file (if relevant) that reproduces the issue? For example, https://notebooks.azure.com/<USER-NAME>/libraries/<LIBRARY-NAME>/html/<PATH-TO-FILE>. If this is sensitive, you can email it to nbhelp@microsoft.com
+
     
 #### Each notebook instance has log files. It may be helpful for us to have them. You can retrieve them by following this [help article](https://notebooks.azure.com/help/jupyter-notebooks/troubleshooting/jupyter-debug-log)
