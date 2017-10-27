@@ -1,19 +1,20 @@
-Please consider the template below to file your issue. 
+Please describe your issue as completely as possible.
 
-### Azure Notebooks environment 
-Did you arrive at a notebooke from Azure Notebooks (notebooks.azure.com) or Azure ML Studio (studio.azureml.net)
+### Required:
+#### Are you using https://notebooks.azure.com or https://studio.azureml.net?
 
-### Description
+#### Describe the issue you are encountering
+
+#### Repro Steps. How can we reproduce this issue?
 
 
-### Repro Steps
+### Optional, but often helpful:
+#### Is a particular jupyter kernel (programming language) used while encountering this issue?
 
+#### What time (please include time zone) did this occur?
 
-### Usage Scenario (e.g. teaching a computing course at university foo)
+#### What web browser and operating system are you using? Please include versions.
 
-### Recommended Metadata
-The Jupyter Kernel (Python2, Python3, R, N/A):
-Occurrence Time:
-Web Browser:
-LibraryID and Notebook Name (if applicable):
-Logs (!cat .nb.log Or: New/Terminal, $cat .nb.log) - attach files if applicable
+#### Can you share sample code that reproduces the issue? If comfortable, you can share your username, library name, and notebook name as well.
+
+#### Each notebook instance has logs it may be helpful for us to have them. You can retrieve them by following this [help article](https://notebooks.azure.com/help/jupyter-notebooks/troubleshooting/jupyter-debug-log)
