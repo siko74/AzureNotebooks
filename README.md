@@ -11,11 +11,11 @@ Computational Notebooks as a Service. https://notebooks.azure.com/
 
 **Share Notebooks:** Azure Notebooks also makes it easy for you to share your ideas with your colleagues or even with anyone who has access to the web. But we go further than that: we make it easy for them to build their own ideas starting from yours! 
 
-##About this Repo
+## About this Repo
 
 This GitHub repo is intended for reporting, discussing, and tracking customer issues. We don't have product code on it yet, but we do have a product roadmap below that we'll keep up-to-date. 
 
-##Product Roadmap - subject to change
+## Product Roadmap - subject to change
 
 The Azure Notebook Service is in public review for the next few quarters. Our focus is key data science scenarios and education. 
 
