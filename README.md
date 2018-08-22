@@ -27,15 +27,15 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 We ship a new release every two weeks. See our [release notes](https://notebooks.azure.com/new) for details.
 
 ## Give it a try
-We have a suite of sample notebook libraries. These are real life notebooks that we have used these for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebooks gives you a quick tour of Jupyter. 
-* [Welcome to Azure Notebooks](https://notebooks.azure.com/library/samples/html/Azure%20Notebooks%20-%20Welcome.ipynb)
-* [Data Science Fundamentals with Python](https://notebooks.azure.com/library/PythonForDS)
-* [Discover Sentiments in Tweets](https://notebooks.azure.com/library/samples/html/Discover%20Sentiments%20in%20Tweets.ipynb)
+We have a [suite of sample notebook libraries](https://notebooks.azure.com/Microsoft/libraries/samples). These are real life notebooks that we have used for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebook gives you a quick tour of Jupyter. 
+* [Welcome to Azure Notebooks](https://notebooks.azure.com/Microsoft/libraries/samples/html/Azure%20Notebooks%20-%20Welcome.ipynb)
+* [Data Science Fundamentals with Python](https://notebooks.azure.com/rheartpython/libraries/PythonDS101)
+* [Discover Sentiments in Tweets](https://notebooks.azure.com/Microsoft/libraries/samples/html/Discover%20Sentiments%20in%20Tweets.ipynb)
 
-Note: You don't need an account to view notebooks - click the "eyeball"  If you want to run/edit a notebook. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
+Note: You don't need an account to view notebooks. You will need a Microsoft account (Outlook, Hotmail, Xbox, etc). You'll be prompted to create one. 
 
 ## Get involved! 
-* [File an issue](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistamce, ping nbhelp@microsoft.com 
+* [File an issue](https://github.com/Microsoft/AzureNotebooks/issues/new) for bugs, feature requests, etc.  If you need immediate assistance, ping nbhelp@microsoft.com 
 * Have a cool notebook you want to share?  Upload & tweet with #Azurenotebooks!
 * Are you teacher giving a large class or want to give webinar?  Test drive the site and if possible a heads up on the date & number of users: nbhelp@microsoft.com 
 
@@ -71,5 +71,6 @@ We also support R (3.3.0 running MRO)
 ## Resources
 * [Jupyter Project](https://jupyter.org/)
 * [Azure Notebook Help](nbhelp@microsoft.com)
+* [Azure Notebooks on Twitter](https://twitter.com/AzureNotebooks)
 
 
