@@ -24,7 +24,7 @@ The Azure Notebook Service is in public review for the next few quarters. Our fo
 **Spring 2017 (Q1-2017)** - More collaboration & security features.  
 
 ## Current Release
-We ship a new release every two weeks. See our [release notes](https://notebooks.azure.com/new) for details.
+We typically ship a new release every week. See our [release notes](https://notebooks.azure.com/new) for details.
 
 ## Give it a try
 We have a [suite of sample notebook libraries](https://notebooks.azure.com/Microsoft/libraries/samples). These are real life notebooks that we have used for our own data science work and training at Microsoft. Some of them are examples from the work we have done with customers of our machine learning services. A welcome notebook gives you a quick tour of Jupyter. 
