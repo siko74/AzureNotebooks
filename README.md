@@ -101,12 +101,13 @@ by the Python team @ Microsoft, which is part of the Data Group.
 
 ### What environments are supported and how can I install packages?
 
-Python 2.7.11 (Anaconda 4.1.0) and Python 3.5.1 (Anaconda 4.1).
+Python 3.6.x Python 2.7.x (Anaconda3 and Anaconda2 5.3.0) with many additional
+packages.
 - You can install packages in a Python notebook: `!pip install <pkg-name>`
 - You can also install packages using conda:
   `!conda install -y --name root <pkg-name>`
 
-We also support R (3.3.0 running MRO)
+We also support R (3.4.1 running MRO) and F# (4.1)
 - You can install packages in R: `install.packages("pkg-name")`
 
 [Full FAQs](https://notebooks.azure.com/faq)
