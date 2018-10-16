@@ -25,7 +25,21 @@ This GitHub repo is intended for reporting, discussing, and tracking customer
 issues.  We don't have product code on it yet, but we do have a product roadmap
 below that we'll keep up-to-date.
 
-## Product Roadmap - subject to change
+<details>
+<summary><strong><em>Table of Contents</em></strong></summary>
+
+* [Product Roadmap](#product-roadmap)
+* [Current Release](#current-release)
+* [Give it a try](#give-it-a-try)
+* [Get involved](#get-involved)
+* [Filing issues](#filing-issues)
+* [FAQs](#faqs)
+* [Resources](#resources)
+</details>
+
+## Product Roadmap
+
+(subject to change)
 
 The Azure Notebook Service is in public review for the next few quarters.  Our
 focus is key data science scenarios and education.
@@ -71,7 +85,7 @@ account (Outlook, Hotmail, Xbox, etc).  You'll be prompted to create one.
   site and if possible a heads up on the date & number of users:
   <nbhelp@microsoft.com>.
 
-## [Filing Issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
+## [Filing issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
 
 Knowing the context of your issues will help us solve it faster. Please include
 as much of the following as you can while creating issues:
