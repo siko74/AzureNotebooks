@@ -22,42 +22,17 @@ Computational Notebooks as a Service: <https://notebooks.azure.com/>.
 ## About this Repo
 
 This GitHub repo is intended for reporting, discussing, and tracking customer
-issues.  We don't have product code on it yet, but we do have a product roadmap
-below that we'll keep up-to-date.
+issues.
 
 <details>
 <summary><strong><em>Table of Contents</em></strong></summary>
 
-* [Product Roadmap](#product-roadmap)
-* [Current Release](#current-release)
 * [Give it a try](#give-it-a-try)
 * [Get involved](#get-involved)
 * [Filing issues](#filing-issues)
 * [FAQs](#faqs)
 * [Resources](#resources)
 </details>
-
-## Product Roadmap
-
-(subject to change)
-
-The Azure Notebook Service is in public review for the next few quarters.  Our
-focus is key data science scenarios and education.
-
-**Fall 2016 (Q3-2016)**:
-  Initial preview with basic notebook features and sharing using Libraries.
-
-**Winter 2016 (Q4-2016)**:
-  Store data files in libraries, import from Github, private libraries, and
-  collaboration in libraries.
-
-**Spring 2017 (Q1-2017)**:
-  More collaboration & security features.
-
-## Current Release
-
-We typically ship a new release every week.  See our [release
-notes](https://notebooks.azure.com/new) for details.
 
 ## Give it a try
 
