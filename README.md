@@ -1,9 +1,10 @@
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
 # Azure Notebooks
+
 Computational Notebooks as a Service: <https://notebooks.azure.com/>.
 
-## Write and Share Your Ideas with Jupyter Notebooks!
+## Write and share your ideas with Jupyter Notebooks
 
 ![banner](.github/aznb_github.png "banner")
 
@@ -19,7 +20,7 @@ Computational Notebooks as a Service: <https://notebooks.azure.com/>.
   than that: we make it easy for them to build their own ideas starting from
   yours!
 
-## About this Repo
+## About this repo
 
 This GitHub repo is intended for reporting, discussing, and tracking customer
 issues.
@@ -50,7 +51,7 @@ a quick tour of Jupyter.
 Note: You don't need an account to view notebooks.  You will need a Microsoft
 account (Outlook, Hotmail, Xbox, etc).  You'll be prompted to create one.
 
-## Get involved!
+## Get involved
 
 * [File an issue](https://github.com/Microsoft/AzureNotebooks/issues/new) for
   bugs, feature requests, etc.  If you need immediate assistance, ping
