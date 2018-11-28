@@ -38,7 +38,7 @@ issues.
 ## Give it a try
 
 We have a [suite of sample notebook
-libraries](https://notebooks.azure.com/Microsoft/libraries/samples).  These are
+libraries](https://notebooks.azure.com/Microsoft/libraries/).  These are
 real life notebooks that we have used for our own data science work and
 training at Microsoft.  Some of them are examples from the work we have done
 with customers of our machine learning services.  A welcome notebook gives you
