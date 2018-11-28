@@ -54,7 +54,9 @@ Note that data must be accessible to the service - ideally on Github, Dropbox, O
   site and if possible a heads up on the date & number of users:
   <nbhelp@microsoft.com>.
 
-## [Filing issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
+## Filing issues 
+
+https://github.com/Microsoft/AzureNotebooks/issues/new
 
 Knowing the context of your issues will help us solve it faster. Please include
 as much of the following as you can while creating issues:
@@ -94,11 +96,3 @@ We also support R (3.4.1 running MRO) and F# (4.1)
 - You can install packages in R: `install.packages("pkg-name")`
 
 [Full FAQs](https://notebooks.azure.com/faq)
-
-## Resources
-
-* [Jupyter Project](https://jupyter.org/)
-
-* [Email Azure Notebooks for Help](mailto:nbhelp@microsoft.com)
-
-* [Azure Notebooks on Twitter](https://twitter.com/AzureNotebooks)
