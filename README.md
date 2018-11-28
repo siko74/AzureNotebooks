@@ -19,7 +19,7 @@ In addition to the notebooks in this repository, which you can also find on the 
 
 - [Intro to Jupyter notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 - [Intro to Data Science](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings) by Jake Vanderplas
-- See the Sample notebooks on [Azure Notebooks](https://notebooks.azure.com/#sample-redirect) front page
+- See the Sample notebooks on [Azure Notebooks](https://notebooks.azure.com/) front page
 - A [curated list of interesting Jupyter notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 Note: You don't need an account to view notebooks.  You will need a Microsoft account (Outlook, Hotmail, Xbox, etc)
@@ -41,8 +41,6 @@ Note that data must be accessible to the service - ideally on Github, Dropbox, O
   - [Cell magics](https://youtu.be/zxkdO07L29Q)
   - [Making slide shows with executable code](https://youtu.be/EOpcxy0RA1A)
   - [All about Jupyter](https://www.youtube.com/watch?v=GMKZD1Ohlzk)
-
-
 
 ## Get involved
 
