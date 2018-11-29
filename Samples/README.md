@@ -13,7 +13,7 @@ Documentation for Azure Notebooks is found on [https://docs.microsoft.com/azure/
 
 ## Interesting samples
 
-In addition to the notebooks in this repository, which you can also find on the [Azure Notebooks samples library](https://notebooks.azure.com/library/samples), there are some good external resources as well:
+In addition to the notebooks in this repository, which you can also find on the [Azure Notebooks samples library](https://notebooks.azure.com/microsoft/libraries), there are some good external resources as well:
 
 - [Intro to Jupyter notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 - [Intro to Data Science](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings) by Jake Vanderplas
