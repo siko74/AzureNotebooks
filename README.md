@@ -1,4 +1,4 @@
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/Microsoft/libraries/samples)
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
 # Azure Notebooks
 
