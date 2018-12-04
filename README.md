@@ -1,5 +1,8 @@
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
+### Azure Notebooks at Microsoft Connect() 2018
+The Azure Notebooks team is excited to share with you our latest update that we announced at Connect() 2018 during Scott Hanselman’s keynote. [Here’s what’s new](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect()-2018).
+
 # Azure Notebooks
 
 Azure Notebooks is a hosted service for [Jupyter Notebooks](#jupyter) that requires no installation. It enables you to get started quickly on prototyping, data science, academic research, or learning to program Python or R. You can combine code, markdown, images, videos, graphs, all in one format and easily share with partners. 
