@@ -2,40 +2,56 @@
 
 ### Azure Notebooks at Microsoft Connect() 2018
 
-The Azure Notebooks team is excited to share with you our latest update that we announced at Connect() 2018 during Scott Hanselman’s keynote. [Here’s what’s new](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect()-2018).
+The Azure Notebooks team is excited to share with you our latest update that we
+announced at Connect() 2018 during Scott Hanselman’s keynote.
+[Here’s what’s new](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect()-2018).
 
 # Azure Notebooks
 
-Azure Notebooks is a hosted service for [Jupyter Notebooks](#jupyter) that requires no installation. It enables you to get started quickly on prototyping, data science, academic research, or learning to program Python or R. You can combine code, markdown, images, videos, graphs, all in one format and easily share with partners.
+Azure Notebooks is a hosted service for [Jupyter Notebooks](#jupyter) that
+requires no installation.  It enables you to get started quickly on
+prototyping, data science, academic research, or learning to program Python or
+R.  You can combine code, markdown, images, videos, graphs, all in one format
+and easily share with partners.
 
 Best of all, this service is free to use, making it a great environment for:
 
 - Teachers who need a hassle-free Python/R environment for classes,
 - Presenters who don't want attendees to spend 45 mins installing software,
 - Developers and hobbyist who need a quick coding scratchpad,
-- Data scientists who need a full R, Python (Anaconda) environment and don't want to spend the time installing everything.
+- Data scientists who need a full R, Python (Anaconda) environment and don't
+  want to spend the time installing everything.
 
-Documentation for Azure Notebooks is found on [https://docs.microsoft.com/azure/notebooks](https://docs.microsoft.com/azure/notebooks).
+Documentation for Azure Notebooks is found on
+[https://docs.microsoft.com/azure/notebooks](https://docs.microsoft.com/azure/notebooks).
 
 ## Interesting samples
 
-In addition to the notebooks in this repository, which you can also find on the [Azure Notebooks samples library](https://notebooks.azure.com/Microsoft/projects/samples), there are some good external resources as well:
+In addition to the notebooks in this repository, which you can also find on the
+[Azure Notebooks samples library](https://notebooks.azure.com/Microsoft/projects/samples),
+there are some good external resources as well:
 
 - [Intro to Jupyter notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
-- [Intro to Data Science](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings) by Jake Vanderplas
-- See the Sample notebooks on the [Azure Notebooks](https://notebooks.azure.com/) front page
+- [Intro to Data Science](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings)
+  by Jake Vanderplas
+- See the Sample notebooks on the
+  [Azure Notebooks](https://notebooks.azure.com/) front page
 - A [curated list of interesting Jupyter notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
-Note: You don't need an account to view notebooks, but you will need a Microsoft account (Outlook, Hotmail, Xbox, etc) to run them. You will be prompted to create an account when needed.
+Note: You don't need an account to view notebooks, but you will need a
+Microsoft account (Outlook, Hotmail, Xbox, etc) to run them.  You will be
+prompted to create an account when needed.
 
 ## Data sources
 
-There are many interesting sources of data to use in notebooks. A couple of good resources are:
+There are many interesting sources of data to use in notebooks.  A couple of
+good resources are:
 
 - [List of public data sources fit for machine learning](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
 - [35 Brilliant and Free Data Sources](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#469939567961)
 
-Note that data must be accessible to the service — you can use Github, Dropbox, OneDrive, Azure blobs, SQLAzure, and more.
+Note that data must be accessible to the service — you can use Github, Dropbox,
+OneDrive, Azure blobs, SQLAzure, and more.
 
 ## Jupyter resources
 
@@ -57,7 +73,7 @@ Note that data must be accessible to the service — you can use Github, Dropbox
 
 ## [Filing issues](https://github.com/Microsoft/AzureNotebooks/issues/new)
 
-Knowing the context of your issue will help us solve it faster. Please include
+Knowing the context of your issue will help us solve it faster.  Please include
 as much of the following as you can when creating a issue:
 
 * Whether the issue is related to Jupyter Notebooks or the Project feature.
