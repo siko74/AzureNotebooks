@@ -32,11 +32,10 @@ In addition to the notebooks in this repository, which you can also find on the
 there are some good external resources as well:
 
 - [Intro to Jupyter notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
-- [Intro to Data Science](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings)
-  by Jake Vanderplas
+- [Intro to Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas
 - See the Sample notebooks on the
   [Azure Notebooks](https://notebooks.azure.com/) front page
-- A [curated list of interesting Jupyter notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+- A [curated list of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 Note: You don't need an account to view notebooks, but you will need a
 Microsoft account (Outlook, Hotmail, Xbox, etc) to run them.  You will be
