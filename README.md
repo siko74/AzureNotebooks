@@ -1,10 +1,12 @@
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
-### Azure Notebooks at Microsoft Connect() 2018
+# End of life for the Azure Notebooks preview
+The Azure Notebooks preview is ending on *September 29th* as we focus on building great Jupyter notebooks experiences across our products, including Visual Studio Code, Azure, GitHub, Codespaces.
 
-The Azure Notebooks team is excited to share with you our latest update that we
-announced at Connect() 2018 during Scott Hanselman’s keynote.
-[Here’s what’s new](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect()-2018).
+We deeply value the Azure Notebooks community and all that was created over the past 4 years. This has our team all the more excited to share our latest notebooks experiences with you.
+
+Please visit [our site](https://aka.ms/aznb-notebooks-at-msft) to find information on these experiences as well as instructions for downloading any content you currently have on the Azure Notebooks site.
+
 
 # Azure Notebooks
 
