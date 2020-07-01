@@ -4,7 +4,7 @@ This script reproduces the Azure Notebooks Preview compute container environment
 
 ### Instructions
 
-1. Copy the contents of this fodler (\environment) to your machine. 
+1. Copy the contents of this folder (\environment) to your machine. 
 2. Invoke `sh install.sh` 
 
 ## Known Issues
