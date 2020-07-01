@@ -1,6 +1,6 @@
 ## install.sh 
 
-This script reproduces the Azure Notebooks Preview compute container environment as closely as possible. The script is supplied as-is to reproduce the Azure Notebooks Preview environment frozen to June 2020 state. It is important to maintain your development environment with recent secure versions of these packages. 
+This script reproduces the Azure Notebooks Preview compute container environment as closely as possible. The script is supplied **as-is** to reproduce the Azure Notebooks Preview environment frozen to June 2020 state. It is important to maintain your development environment with recent secure versions of these packages. 
 
 ### Instructions
 
