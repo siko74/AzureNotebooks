@@ -9,6 +9,6 @@ This script reproduces the Azure Notebooks Preview compute container environment
 
 ## Known Issues
 
-- The script expects to be executed on a Linux distro that has odbc dependencies installed. If they are missing, install using “sudo apt-get install unixodbc-dev" before running the install script.
+- The script expects to be executed on a Linux distro that has odbc dependencies installed. If they are missing, install using `sudo apt-get install unixodbc-dev` before running the install script.
 
 - When installing openfst you may need to update libstdc to avoid a `GLIBCXX_3.4.21 not found` error.   
