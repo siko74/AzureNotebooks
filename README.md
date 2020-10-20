@@ -1,7 +1,7 @@
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/Microsoft/libraries/samples)
 
 # End of life for the Azure Notebooks preview
-The Azure Notebooks preview is ending on *October 9th, 2020* as we focus on building great Jupyter notebooks experiences across our products, including Visual Studio Code, Azure, GitHub, Codespaces.
+The Azure Notebooks preview is ending on *January 15th, 2021* as we focus on building great Jupyter notebooks experiences across our products, including Visual Studio Code, Azure, GitHub, Codespaces.
 
 We deeply value the Azure Notebooks community and all that was created over the past 4 years. This has our team all the more excited to share our latest notebooks experiences with you.
 
