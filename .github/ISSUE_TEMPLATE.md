@@ -1,8 +1,6 @@
 Please describe your issue as completely as possible.
 
 ### Required:
-#### Which site did you access us from?
-    [] https://notebooks.azure.com
 
 #### Describe the issue you are encountering
 
