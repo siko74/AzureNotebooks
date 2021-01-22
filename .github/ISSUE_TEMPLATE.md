@@ -3,7 +3,6 @@ Please describe your issue as completely as possible.
 ### Required:
 #### Which site did you access us from?
     [] https://notebooks.azure.com
-    [] https://studio.azureml.net
 
 #### Describe the issue you are encountering
 
@@ -35,5 +34,3 @@ Please describe your issue as completely as possible.
 
 #### What is the path to the notebook file (if relevant) that reproduces the issue? For example, https://notebooks.azure.com/<USER-NAME>/libraries/<LIBRARY-NAME>/html/<PATH-TO-FILE>. If this is sensitive, you can email it to nbhelp@microsoft.com
 
-    
-#### Each notebook instance has log files. It may be helpful for us to have them. You can retrieve them by following this [help article](https://notebooks.azure.com/help/jupyter-notebooks/troubleshooting/jupyter-debug-log)
